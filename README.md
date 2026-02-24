@@ -155,7 +155,7 @@ PRCP-1013-WalkRunClass/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/PRCP-1013-WalkRunClass.git
+   git clone https://github.com/<yuvaraja-94>/PRCP-1013-WalkRunClass.git
    cd PRCP-1013-WalkRunClass
    ```
 
